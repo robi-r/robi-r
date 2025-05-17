@@ -27,3 +27,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robi-r&theme=radical)
 ![Visitor Badge](https://komarev.com/ghpvc/?username=robi-r&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robi-r&show_icons=true&theme=radical)
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
